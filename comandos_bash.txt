@@ -1,3 +1,5 @@
+Comandos Bash
+
 -a -----> mostra os arquivos ocultos 
 
 . -----> referência da pasta para ela mesma, mostra onde você está 
@@ -14,11 +16,27 @@ mkdir ------> serve para criar uma pasta no diretório onde estou
 
 cat -------> mostra oque tem dentro do meu arquivo que eu consiga editar
 
-rm -rf -----> para excluir uma pasta no meu diretório
+rm -----> remove arquivo ou diretório
 
 git init . ------> cria um repositório vazio dentro do meu diretório
 
 
+Comandos Git Init
 
+git init . ------> inicia um repositório vazio dentro do meu diretório
+
+git status ------> exibe o status do meu repositório, como está o diretório
+
+git add "nome_arquivo" ------> adiciona arquivo parar ser comitado
+
+git commit -m "nome do commit" --> faz commit do que estava para ser commitado 
+
+untracked files : arquivos que ainda não foram apresentados para o git, 
+arquivos que não foram salvos pelo git.
+
+commits: são checkpoints
+
+
+ 
 
 
