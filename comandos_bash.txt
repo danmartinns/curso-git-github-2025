@@ -1,0 +1,24 @@
+-a -----> mostra os arquivos ocultos 
+
+. -----> referência da pasta para ela mesma, mostra onde você está 
+
+.. ----> vai pra pasta mãe do diretorio onde estou
+
+ls ----> lista oque existe no dirétorio 
+
+cd -----> muda de diretório
+
+pwd -----> mostra o caminho do diretório
+
+mkdir ------> serve para criar uma pasta no diretório onde estou
+
+cat -------> mostra oque tem dentro do meu arquivo que eu consiga editar
+
+rm -rf -----> para excluir uma pasta no meu diretório
+
+git init . ------> cria um repositório vazio dentro do meu diretório
+
+
+
+
+
