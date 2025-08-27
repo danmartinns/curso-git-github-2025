@@ -8,6 +8,21 @@ git log                        -> mostra  todo o histórico de commit
 
 
 
+##FLUXO DE TRABALHO 
+
+
+1. criar o diretório do projeto       : cria a pasta para trabalhar
+2. inicia o git dentro do diretório   : usando o git init .
+3. edita ou cria arquivos             : inicia o trabalho
+4. git status                         : verifica se o arquivo foi criado ou editado
+5. git add < nome do arquivo >        : adiciona o arquivo para comitar
+6. git status                         : verifica se o arquivo está pronto para ser comitado
+7. git commit -m < nome do commit >   :  salva o arquivo que foi adicionado para ser commitado
+8. git status                         : verifica se o arquivo foi commitado
+9. volta para o passo 3 
+ 
+
+
 
 
 untracked files : arquivos que ainda não foram apresentados para o git, 
