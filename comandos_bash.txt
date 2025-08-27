@@ -23,6 +23,7 @@ git init . ------> cria um repositório vazio dentro do meu diretório
 rm -rf ----> remove de forma recursiva e forçada todos os diretórios
 
 
+.
 
 
 
