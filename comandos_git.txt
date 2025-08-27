@@ -1,4 +1,16 @@
-git init .  -> cria um repositório na pasta atual 
-git status -> mostra o status do trbalho (de cada arquivo)
-git add nome_arquivo -> adiciona um arquivo para ser commitado
+git init .                     -> cria um repositório na pasta atual 
+git status                     -> mostra o status do trbalho (de cada arquivo)
+git add nome_arquivo           -> adiciona um arquivo para ser commitado
 git commit -m "nome do commit" -> faz commit do que estava para ser commitado
+git log                        -> mostra  todo o histórico de commit
+
+
+
+
+
+
+
+untracked files : arquivos que ainda não foram apresentados para o git, 
+arquivos que não foram salvos pelo git.
+
+commits: são checkpoints
