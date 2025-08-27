@@ -3,8 +3,8 @@ git status                     -> mostra o status do trbalho (de cada arquivo)
 git add nome_arquivo           -> adiciona um arquivo para ser commitado
 git commit -m "nome do commit" -> faz commit do que estava para ser commitado
 git log                        -> mostra  todo o histórico de commit
-
-
+git diff                       -> mostra a diferença do estado atual do arquivo para em relação ao commit anterior
+git reset                      -> remove um arquivo da fase de commit
 
 
 
@@ -20,7 +20,8 @@ git log                        -> mostra  todo o histórico de commit
 7. git commit -m < nome do commit >   :  salva o arquivo que foi adicionado para ser commitado
 8. git status                         : verifica se o arquivo foi commitado
 9. volta para o passo 3 
- 
+
+
 
 
 
