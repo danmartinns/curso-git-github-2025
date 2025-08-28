@@ -1,5 +1,6 @@
 esse arquivo contém comandos secundários de git
 
+git branch                              -> mostra todas as minhas branch
 git checkout    < nome da branch >      -> usado para mover entre as branch
 git checkout -b < nome da branch >      -> usado para criar uma branch
 git branch -D   < nome da branch >      -> usado para deletar uma branch, é preciso estar em uma branch diferente para deletar a escolhida
