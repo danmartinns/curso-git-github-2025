@@ -8,6 +8,7 @@ Visual Studio Code.
 
 Confira tudo no youtube do Teo Me Why
 
+Além do youtube, se ligue no site e agenda para ficar por dentro de tudo que vai rolar em 2025.
 
 Fluxo de trabalho Git local
 
